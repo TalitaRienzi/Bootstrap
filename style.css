@@ -1,0 +1,66 @@
+
+*{
+    
+    margin: 5px;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card1 {
+    background-color: rgb(226, 225, 225);
+    border-radius: 10px;
+}
+
+.breadcrumb{
+    background-color:rgb(226, 225, 225); 
+    border-radius: 10px;
+    padding: 7px;
+
+}
+
+#nome{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#sobrenome{
+    
+    text-align: center;
+    margin-top: 20px;
+}
+
+#endereco{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#usuario{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#senha{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#dropdown1{
+    margin-left: 73%;
+}
+
+#dropdown2{
+    margin-left: 78%;
+    margin-top: 30%;
+}
+
+#bordaBox{
+    color: blue;
+}
+
+
+
+
+
+
